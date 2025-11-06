@@ -65,6 +65,7 @@
 		"@vitest/browser": "catalog:",
 		"autoprefixer": "^10.4.21",
 		"cpy-cli": "^5.0.0",
+		"codemirror-lang-hcl": "^0.1.0",
 		"cssnano": "^7.1.0",
 		"dayjs": "^1.11.13",
 		"diff-match-patch": "^1.0.5",
